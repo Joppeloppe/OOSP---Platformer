@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Image\Tile\tile_test.png</Source>
+      <Name>Image\Tile\tile_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Tile\tile_test.xnb</Output>
+      <Time>2014-11-14T11:00:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Screen\game_over_test.png</Source>
+      <Name>Image\Screen\game_over_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Screen\game_over_test.xnb</Output>
+      <Time>2014-11-14T11:07:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Screen\game_win_test.png</Source>
+      <Name>Image\Screen\game_win_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Screen\game_win_test.xnb</Output>
+      <Time>2014-11-14T11:07:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Screen\start_screen_test.png</Source>
+      <Name>Image\Screen\start_screen_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Screen\start_screen_test.xnb</Output>
+      <Time>2014-11-14T11:07:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Item\bonus_item_test.png</Source>
+      <Name>Image\Item\bonus_item_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Item\bonus_item_test.xnb</Output>
+      <Time>2014-11-17T09:58:05+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Item\power_up_test.png</Source>
+      <Name>Image\Item\power_up_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Item\power_up_test.xnb</Output>
+      <Time>2014-11-17T09:58:05+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Tile\goal_test.png</Source>
+      <Name>Image\Tile\goal_test</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Tile\goal_test.xnb</Output>
+      <Time>2014-11-17T09:58:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Screen\awesome_dog.jpg</Source>
+      <Name>Image\Screen\awesome_dog</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Screen\awesome_dog.xnb</Output>
+      <Time>2014-11-18T09:46:33+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Background\mountains.png</Source>
+      <Name>Image\Background\mountains</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Background\mountains.xnb</Output>
+      <Time>2014-11-20T10:09:14+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Character\chomper_robot.png</Source>
+      <Name>Image\Character\chomper_robot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Character\chomper_robot.xnb</Output>
+      <Time>2014-11-20T12:04:34+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Character\robot.png</Source>
+      <Name>Image\Character\robot</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Character\robot.xnb</Output>
+      <Time>2014-11-20T12:04:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Item\rocket_boots.png</Source>
+      <Name>Image\Item\rocket_boots</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Item\rocket_boots.xnb</Output>
+      <Time>2014-11-22T14:13:21+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Item\pink_battery.png</Source>
+      <Name>Image\Item\pink_battery</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Item\pink_battery.xnb</Output>
+      <Time>2014-11-22T14:10:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Item\robot_power_glove.png</Source>
+      <Name>Image\Item\robot_power_glove</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Item\robot_power_glove.xnb</Output>
+      <Time>2014-11-24T14:44:15+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\hud_font.spritefont</Source>
+      <Name>Font\hud_font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Font\hud_font.xnb</Output>
+      <Time>2014-11-22T13:14:11.0992126+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Item\flag.png</Source>
+      <Name>Image\Item\flag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Item\flag.xnb</Output>
+      <Time>2014-11-22T14:39:47+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Item\trampoline.png</Source>
+      <Name>Image\Item\trampoline</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Item\trampoline.xnb</Output>
+      <Time>2014-11-24T09:32:19+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Item\ladder.png</Source>
+      <Name>Image\Item\ladder</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Item\ladder.xnb</Output>
+      <Time>2014-11-24T10:04:01+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\eat_candy.wav</Source>
+      <Name>Sound\eat_candy</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Sound\eat_candy.xnb</Output>
+      <Time>2014-11-24T13:35:22.1660428+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\hit.wav</Source>
+      <Name>Sound\hit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Sound\hit.xnb</Output>
+      <Time>2014-11-24T13:42:01.4145602+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Image\Particle\circle.png</Source>
+      <Name>Image\Particle\circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\Image\Particle\circle.xnb</Output>
+      <Time>2014-11-24T14:07:44+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5BC2A1E1-B196-461C-BB36-75E7AD989421}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joakim Levin\Dropbox\Examination 4 - Platform\Platform_Game\Platform_Game\Platform_Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-24T23:15:39.9897017+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
